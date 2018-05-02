@@ -1,4 +1,5 @@
 # Uploads processed video clips to twitter
+# Add this file to your cronjobs using desired delay
 
 import sqlite3
 import twitter
